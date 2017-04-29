@@ -1,0 +1,13 @@
+Package: AcuityView
+Title: A Package for Displaying Visual Scenes as they May Appear to an Animal With Lower Acuity
+Version: 0.1
+Date: 2017-28-04
+Author: Eleanor Caves [aut, cre],
+	Sönke Johnsen [aut]
+Maintainer: Eleanor Caves <eleanor.caves@gmail.com>
+Description: This code provides a simple method for representing a visual scene as it may be seen by an animal with less acute vision. For more information, please refer to, and when using please cite, the original publication: "XXXXXXXXXXXXXX"
+Depends: R (>= 3.3.2)
+License: GPL>=2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
